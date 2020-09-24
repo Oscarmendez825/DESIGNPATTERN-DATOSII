@@ -94,6 +94,12 @@
 		<Unit filename="/home/oscarmg310/CLionProjects/PD2/Adapter/Adapter.h">
 			<Option target="PD2"/>
 		</Unit>
+		<Unit filename="/home/oscarmg310/CLionProjects/PD2/Builder/Builder.cpp">
+			<Option target="PD2"/>
+		</Unit>
+		<Unit filename="/home/oscarmg310/CLionProjects/PD2/Builder/Builder.h">
+			<Option target="PD2"/>
+		</Unit>
 		<Unit filename="/home/oscarmg310/CLionProjects/PD2/Observer/observer.cpp">
 			<Option target="PD2"/>
 		</Unit>
